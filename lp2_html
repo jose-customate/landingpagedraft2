@@ -22,14 +22,14 @@
         <button class="language-button">
           <i class="fas fa-globe"></i> English <i class="fas fa-chevron-down"></i>
         </button>
-        <div class="dropdown-content">
           <a href="#" class="active"><i class="fas fa-check"></i> English</a>
-          <a href="#">Español</a>
+       <div class="dropdown-content">
           <a href="#">Deutsch</a>
-          <a href="#">Italiano</a>
-          <a href="#">हिंदी</a>
-          <a href="#">Norsk</a>
+          <a href="#"> class="active"><i class="fas fa-check"></i> English</a>
+          <a href="#">Español</a>
           <a href="#">Hrvatski</a>
+          <a href="#">Norsk</a>
+        </div>
         </div>
       </div>
     </div>
