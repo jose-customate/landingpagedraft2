@@ -22,7 +22,6 @@
         <button class="language-button">
           <i class="fas fa-globe"></i> English <i class="fas fa-chevron-down"></i>
         </button>
-          <a href="#" class="active"><i class="fas fa-check"></i> English</a>
        <div class="dropdown-content">
           <a href="#">Deutsch</a>
           <a href="#"> class="active"><i class="fas fa-check"></i> English</a>
